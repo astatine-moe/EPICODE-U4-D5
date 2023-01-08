@@ -1,0 +1,13 @@
+[
+    {
+        "_id": "0250d2f87569fe20e634b822341a46a2",
+        "name": "Galaxy S21",
+        "description": "Mobile phone",
+        "brand": "Samsung",
+        "price": 499.99,
+        "category": "phone",
+        "createdAt": "2023-01-08T16:46:27.586Z",
+        "updatedAt": "2023-01-08T17:19:28.809Z",
+        "imageUrl": "uploads\\601aa4c751b0fdb11a6cf0ceb26b265a"
+    }
+]
